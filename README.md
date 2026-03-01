@@ -1,4 +1,7 @@
 # Dimuon Event Simulation and Parameter Estimation at LEP
+$\textit{Date Completed: 12/12/2025}$ 
+
+
 
 This repository contains the code and analysis for a Monte Carlo simulation of dimuon events in a collider experiment, modelled on the LEP (Large Electron-Positron Collider) at CERN. The project implements and compares four different methods for estimating the parameters of the differential cross-section for the process $e^{+}e^{-} \to \mu^{+}\mu^{-}$.
 
