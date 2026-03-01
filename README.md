@@ -120,4 +120,5 @@ For the LEP benchmark ($a_1 = 0.04$, $a_2 = 1.0$):
 [4] LibreTexts. 16.3: The Differential Cross Section.  
 [5] Eric Jones, Travis Oliphant, Pearu Peterson, et al. SciPy: Open source scientific tools for Python.  
 [6] Caltech. The Minimum Chi-Square Method.  
-[7] William G. Cochran. The $\chi^2$ test of goodness of fit. The Annals of Mathematical Statistics, 1952.
+[7] William G. Cochran. The $\chi^2$ test of goodness of fit. The Annals of Mathematical Statistics, 1952.     
+[8] E. Fernandez, "Physics at LEP-1 and LEP-2", Proceedings of the Silafae-III Symposium, Cartagena de Indias, Colombia, April 2000. Available at: https://cds.cern.ch/record/850586
