@@ -1,5 +1,8 @@
 # Dimuon Event Simulation and Parameter Estimation at LEP
-$\textit{Date Completed: 12/12/2025}$ 
+**Author:** Eliot Gambino   
+**Course:** Scientific Computing 1   
+**Institution:** University of Birmingham School of Physics and Astronomy   
+**Date:** December 2025
 
 
 
